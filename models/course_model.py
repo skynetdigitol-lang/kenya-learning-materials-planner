@@ -1,0 +1,1 @@
+# models/course_model.py content

@@ -1,0 +1,1 @@
+# services/document_generation.py content
